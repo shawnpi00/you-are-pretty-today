@@ -1,0 +1,22 @@
+html,body {
+    font-size:20px;
+    margin: 0; height: 100%; overflow: hidden;
+    background-color: #E57868;
+}
+
+
+h1 {
+    font-size:6rem;
+    color: #f2e651 ;
+    font-family: 'Pattaya', sans-serif;
+}
+
+.canvas {
+    position: relative;
+    top:30%;
+}
+
+.main-text {
+    position: absolute;
+    top:40%;
+}
